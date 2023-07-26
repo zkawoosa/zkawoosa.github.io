@@ -15,3 +15,22 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
